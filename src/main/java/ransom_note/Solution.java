@@ -5,6 +5,8 @@ import java.util.Map;
 
 /**
  * <a href="https://leetcode.com/problems/ransom-note/">Problem</a>
+ * <br>
+ * <a href="https://leetcode.com/submissions/detail/722836480/">Submission</a>
  */
 class Solution {
 
